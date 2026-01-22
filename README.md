@@ -4,7 +4,7 @@ Prerequisites
 2.	ADB installed on your PC
 3.	Python 3.x installed
 4.	Frida tools installed
-5.	
+
 Installation Steps
 1. Install Frida on PC (PowerShell)
 powershell
